@@ -1,3 +1,5 @@
+#This program is used to generate a name for your band.
+
 def main():
     print("Welcome to the Band Name Generator.")
     city = input("Which city did you grow up in? \n")
